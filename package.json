@@ -1,5 +1,5 @@
 {
-  "name": "mcp-summarization-functions",
+  "name": "@iflow-mcp/mcp-summarization-functions",
   "version": "0.1.5",
   "description": "Provides summarised output from various actions that could otherwise eat up tokens and cause crashes",
   "type": "module",
